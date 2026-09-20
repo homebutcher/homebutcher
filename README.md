@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<sub>rentry　dni　not　up　to　date
+<sub>rentry　dni　not　up　to　date </br>
      view　rentry　with　adblocker
 </p>
 
