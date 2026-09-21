@@ -2,8 +2,8 @@
 <sub> but　he's　coming　for　you, </br>
      he's　coming　for　you, </br>
      all　the　other　kids　with　the　pumped　up　kicks </br>
-     you'd　better　run,　better　run,　
-     outrun my gun </br>
+     you'd　better　run,　better　run,　</br>
+     outrun my gun 
 
 <p align="center">
 <sub>　　　　　　　　　　　　　　　　　
