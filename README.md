@@ -1,3 +1,14 @@
+<p align="center">
+<sub> but　he's　coming　for　you, </br>
+     he's　coming　for　you, wait, </br>
+     all　the　other　kids　with　the　pumped　up　kicks </br>
+     you'd　better　run,　better　run, outrun my gun </br>
+     better run faster than my bullet
+
+<p align="center">
+<sub>　　　　　　　　　　　　　　　　　
+     
+</p>
 
 <div align="center">
 <p aling="center">
@@ -32,8 +43,7 @@
 </p>
 
 <p align="center">
-<sub>rentry　dni　not　up　to　date </br>
-     view　rentry　with　adblocker
+<sub>view　rentry　with　adblocker
 </p>
 
 
