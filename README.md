@@ -9,8 +9,7 @@
 
 
 <p align="center">
-<sub> highly intelligent people tagged HERE <br>
-[BUM](https://github.com/newestalbum/)
+<sub><a href="https://github.com/newestalbum">le bum BETA</a
 
 </p>
 
