@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<sub><a href="https://github.com/newestalbum">le bum BETA</a
+<sub><a href="https://github.com/newestalbum">le bum BETA spouseo</a
 
 </p>
 
