@@ -19,11 +19,6 @@
 
 </p>
 
-<p align="center">
-<sub>TAGGUHH ME BACKK OR I WIL KILL YOU
-
-</p>
-
 
 <p align="center">
 <sub>　　　　　　　　　　　　　　　　　
