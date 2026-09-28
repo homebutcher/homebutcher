@@ -10,13 +10,20 @@
 
 
 <p align="center">
-<sub> but　he's　coming　for　you, </br>
-     he's　coming　for　you, </br>
+<sub> but  he's  coming  for  you,  </br>
+     he's  coming　for　you, </br>
+            </br>
+     byi  lowk  toxic  #andproud </br>
+     lowk  paranoid,  envious,  suspecting  &  borderline </br>
+     will  ghost  u  100%  at  least  once  </br>
+     /sometimes  days  or  hours  hardly  ever  months </br>
+     unstable  ++  plural  ++  most  likely  will  insult  </br>
+     you  and  then  tell  u  its  a  joke
 </p>
 
 
 <p align="center">
-<sub><a href="https://github.com/newestalbum">le BUM spouse</a                                                                      
+<sub><a href="https://github.com/newestalbum">le BITCH</a                                                                      
 </p>
 
 <p align="center">
