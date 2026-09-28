@@ -12,13 +12,6 @@
 <p align="center">
 <sub> but  he's  coming  for  you,  </br>
      he's  coming　for　you, </br>
-            </br>
-     byi  lowk  toxic  #andproud </br>
-     lowk  paranoid,  envious,  suspecting  &  borderline </br>
-     will  ghost  u  100%  at  least  once  </br>
-     /sometimes  days  or  hours  hardly  ever  months </br>
-     unstable  ++  plural  ++  most  likely  will  insult  </br>
-     you  and  then  tell  u  its  a  joke
 </p>
 
 
@@ -53,4 +46,13 @@
 
 <p align="center">
 <sub> the　forbidden　fruit　tastes　the　sweetest　</br>
+</p>
+
+<p align="center">
+<sub> byi  lowk  toxic  #andproud </br>
+     lowk  paranoid,  envious,  suspecting  &  borderline </br>
+     will  ghost  u  100%  at  least  once  </br>
+     /sometimes  days  or  hours  hardly  ever  months </br>
+     unstable  ++  plural  ++  most  likely  will  insult  </br>
+     you  and  then  tell  u  its  a  joke
 </p>
