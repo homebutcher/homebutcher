@@ -49,10 +49,9 @@
 </p>
 
 <p align="center">
-<sub> byi  lowk  toxic  #andproud </br>
-     lowk  paranoid,  envious,  suspecting  &  borderline </br>
-     will  ghost  u  100%  at  least  once  </br>
-     /sometimes  days  or  hours  hardly  ever  months </br>
-     unstable  ++  plural  ++  most  likely  will  insult  </br>
-     you  and  then  tell  u  its  a  joke
+<sub> byi  i  am unstable </br>
+     i  experience  psychotic  episodes,  paranoia episodes,  </br>
+     manic  episodes,  <ins>BPD  episodes</ins>,  OCD  episodes,  </br>
+     &  dissociative episode   </br>
+     ++  plural
 </p>
