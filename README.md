@@ -1,11 +1,4 @@
-<div align="center">
-<p aling="center">
-<ins>I  AM  CURRENTLY  HAVING  A  BPD  EPISODE</ins> </br>
-     <sub>i am having a bpd episode. it's not ur fault if i ignore u or if i act cold and distant. <br>
-          i am simply scared you will leave me. i am scared. i am paranoid. i am suspecting. <br>
-          i am scared you r in some conspiracy to hurt me. i am scared you r talking with others to replace me <br>
-          or that youre planning how to hurt me with them. i am not doing this on purpose. </sub>
-</p>
+
 
 <div align="center">
 <p aling="center">
