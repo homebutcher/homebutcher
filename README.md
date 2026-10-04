@@ -1,33 +1,29 @@
 
 
 <div align="center">
+<p align="center">
+     
+![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9d7a8b&style=plastic&label=+devils++victims+)
+
+</p>
+
+
+<div align="center">
 <p aling="center">
-
-![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=966c6c&style=plastic&label=+devils++victims+)
+<sub>rape  me,  rape  me  again, </br>
+i'm  not  the  only  one </sub>
 </p>
 
 <p align="center">
-<img align="center" width="250" height="150" src="https://github.com/user-attachments/assets/1f4c78a0-ae7e-493e-9341-d50f9d01ccb6" />
+<img align="center" width=250px src="https://github.com/user-attachments/assets/13a2a39a-0426-4b88-9c53-64a85a17d37f" />
+
+
 </p>
 
 
 <p align="center">
-<sub> but  he's  coming  for  you,  </br>
-     he's  coming　for　you, </br>
-</p>
-
-<p align="center">
-<sub><a href="https://rentry.co/canceledkei">KEI FILES</a                                                                      
-</p>
-
-
-
-<p align="center">
-<sub><a href="https://github.com/newestalbum">le BITCH</a                                                                      
-</p>
-
-<p align="center">
-<img width="100" height="80" alt="obraz" src="https://github.com/user-attachments/assets/5e0f9331-6982-4812-aaf2-b3a976d7c70a" />
+<sub> my  favorite  inside  source, </br>
+i  will  kiss  your  open  sores </br> </sub>
 </p>
 
 <p align="center">
@@ -62,3 +58,18 @@
      &  dissociative  episode   </br>
      ++  plural
 </p>
+
+<p align="center">
+<sub><a href="https://rentry.co/canceledkei">KEI FILES</a                                                                      
+</p>
+
+
+
+<p align="center">
+<sub><a href="https://github.com/newestalbum">le BITCH</a                                                                      
+</p>
+
+<p align="center">
+<img width="100" height="80" alt="obraz" src="https://github.com/user-attachments/assets/5e0f9331-6982-4812-aaf2-b3a976d7c70a" />
+</p>
+
