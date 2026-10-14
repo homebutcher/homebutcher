@@ -1,7 +1,3 @@
-<div align="center">
-<p align="center">
-<sub >PLS givw me money ill send or draw i need money despertly
-
 
 <div align="center">
 <p align="center">
