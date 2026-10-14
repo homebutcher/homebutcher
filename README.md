@@ -1,5 +1,17 @@
 <div align="center">
 <p align="center">
+<sub> kins <br>
+@homelander  @samwinchester <br>
+@braynhodukavich  @deanwinchester <br>
+@willgraham  @hanniballecter <br>
+@robertchase  @jameswilson <br>
+@gregoryhouse  @remyhadley <br>
+@masonverger  @bedeliadumaurier <br>
+     &  more
+</sub>
+
+<div align="center">
+<p align="center">
 <img width="250" src="https://github.com/user-attachments/assets/dc34c011-bd41-4026-835c-a20978486810" />
 </p>
 
