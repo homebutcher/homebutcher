@@ -17,7 +17,7 @@
 <p>
 <p align="center">
      
-<sub>[rentry](https://rentry.co/sweetmeatsyringe) 　　 
+<sub>[rentry](https://rentry.co/sexualdisorder) 　　 
 [atabook](https://canniballove.atabook.org/) 　　 
 [strawpage](https://hypnodeath.straw.page/) 　　 </sub>
 </p>
