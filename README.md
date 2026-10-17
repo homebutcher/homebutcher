@@ -34,7 +34,7 @@
 <br>
 
 <details>
-<summary></summary>
+<summary><sub>　the⠀man⠀of⠀it⠀all　</sub></summary>
 <p>
 <p align="center">
 <table><caption>
