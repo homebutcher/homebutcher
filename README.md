@@ -1,7 +1,7 @@
 <p>
 <div align="center">
 <p align="center">
-<sub><ins>${\textsf{\color{#787b60}forbidden}}$</ins></sub> <sub>${\textsf{\color{#787b60}fruit}}$</sub> <sub>${\textsf{\color{#787b60}taste}}$</sub> <ins><sub>${\textsf{\color{#787b60}the}}$</sub></ins> <ins><sub>${\textsf{\color{#787b60}sweetest}}$</sub></ins>
+<sub>${\textsf{\color{#787b60}forbidden}}$></sub> <sub>${\textsf{\color{#787b60}fruit}}$</sub> <sub>${\textsf{\color{#787b60}taste}}$</sub> <sub>${\textsf{\color{#787b60}the}}$</sub> <sub>${\textsf{\color{#787b60}sweetest}}$</sub>
 </p>
 
 <br>
