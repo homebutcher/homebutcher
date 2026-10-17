@@ -1,9 +1,8 @@
 
 <div align="center">
 <p align="center">
-     
-![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9d7a8b&style=plastic&label=+devils++victims+)
 
+![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9d7a8b&style=plastic&label=+devils++victims+)
 </p>
 
 
