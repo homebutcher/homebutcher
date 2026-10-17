@@ -1,10 +1,4 @@
-<p>
-<div align="center">
-<p align="center">
-<sub>forbidden fruit tastes <ins>the sweetest</ins></sub> 
-</p>
 
-<br>
 
 <p>
 <div align="center">
