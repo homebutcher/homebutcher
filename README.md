@@ -1,7 +1,7 @@
 <p>
 <div align="center">
 <p align="center">
-<sub>${\textsf{\color{#787b60}forbidden}}$></sub> <sub>${\textsf{\color{#787b60}fruit}}$</sub> <sub>${\textsf{\color{#787b60}taste}}$</sub> <sub>${\textsf{\color{#787b60}the}}$</sub> <sub>${\textsf{\color{#787b60}sweetest}}$</sub>
+<sub>forbidden fruit tastes <ins>the sweetest</ins></sub> 
 </p>
 
 <br>
