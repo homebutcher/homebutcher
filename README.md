@@ -2,7 +2,7 @@
 <div align="center">
 <p align="center">
 
-![profile views](https://komarev.com/ghpvc/?username=HOMELANDER&color=968f7b&style=plastic&label=+devils++victims+)
+![　](https://komarev.com/ghpvc/?username=HOMELANDER&color=968f7b&style=plastic&label=+devils++victims+)
 </p>
 
 <p>
@@ -27,3 +27,8 @@
 [url hoard](https://rentry.co/charliesurlhoard/) 　　 </sub>
 </p>
 
+<p>
+<p align="center">
+<table><caption>
+</caption></table>
+</p>
