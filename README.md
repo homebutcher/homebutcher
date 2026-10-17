@@ -2,7 +2,7 @@
 <div align="center">
 <p align="center">
 
-![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=968f7b&style=plastic&label=+devils++victims+)
+![profile views](https://komarev.com/ghpvc/?username=HOMELANDER&color=968f7b&style=plastic&label=+devils++victims+)
 </p>
 
 <p>
