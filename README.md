@@ -39,7 +39,7 @@
 <p align="center">
 <table><caption>
 <tr><td>
- <sub>${\textrm{\color{#787b60}fuck}}$</sub>   
+ <sub>${\textsf{\color{#787b60}fuck}}$</sub>   
 </tr></td></caption></table>
 </details>
 <br>
