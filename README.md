@@ -35,6 +35,13 @@
 
 <br>
 
+<p>
+<p align="center">
+<sub>[kuro](https://kuro.rip/homelander) 　　 
+[zyo](https://zyo.lol/samwinchester) 　　 
+[zyo2](https://zyo.lol/homelander) 　　 </sub>
+</p>
+
 <details>
 <summary><sub>　the⠀man⠀of⠀it⠀all　</sub></summary>
 <p>
