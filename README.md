@@ -33,14 +33,20 @@
 [url hoard](https://rentry.co/charliesurlhoard/) 　　 </sub>
 </p>
 
-<br>
 
 <p>
 <p align="center">
-<sub>[kuro](https://kuro.rip/homelander) 　　 
+<sub> [kuro](https://kuro.rip/homelander) 　　 
 [zyo](https://zyo.lol/samwinchester) 　　 
 [zyo2](https://zyo.lol/homelander) 　　 </sub>
 </p>
+
+<p>
+<p align="center">
+<sub>[kuro2](https://kuro.rip/samwinchester) 　　 </sub>
+</p>
+
+<br>
 
 <details>
 <summary><sub>　the⠀man⠀of⠀it⠀all　</sub></summary>
