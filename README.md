@@ -1,4 +1,6 @@
-all of you make em sick idont need anyof you iwas better off alone
+pleselove ,meimsorryi washaving asplitpelaselvoemelvorme thrmostplese lovemebtterthenanyoneplese
+<img width="250" src="https://github.com/user-attachments/assets/c19709c4-edd1-4939-b583-7786e649a480" />
+
 
 <p>
 <div align="center">
