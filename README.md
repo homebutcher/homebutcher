@@ -1,4 +1,4 @@
-all of you make em sick
+all of you make em sick idont need anyof you iwas better off alone
 
 <p>
 <div align="center">
