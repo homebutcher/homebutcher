@@ -1,4 +1,4 @@
-everyones getting BLCOOKEDD 😂😂🤣🤣🤣
+all of you make em sick
 
 <p>
 <div align="center">
