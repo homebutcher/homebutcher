@@ -1,5 +1,4 @@
-pleselove ,meimsorryi washaving asplitpelaselvoemelvorme thrmostplese lovemebtterthenanyoneplesewhy doall ofyou hateme
-<img width="250" src="https://github.com/user-attachments/assets/c19709c4-edd1-4939-b583-7786e649a480" />
+
 
 
 <p>
