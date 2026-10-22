@@ -19,32 +19,34 @@
 
 <p>
 <p align="center">
-     
-<sub>[rentry](https://rentry.co/sexualdisorder) 　　 
-[atabook](https://canniballove.atabook.org/) 　　 
-[strawpage](https://hypnodeath.straw.page/) 　　 </sub>
+<div align="center">
+<sub> <a href="https://rentry.co/sexualdisorder">rentry</a> </sub> 　　 
+<sub> <a href="https://canniballove.atabook.org/">atabook</a> </sub> 　　 
+<sub> <a href="https://hypnodeath.straw.page/)">strawpage</a> </sub>
 </p>
 
 
 <p>
 <p align="center">
- 
-<sub>[prns.cc](https://pronouns.cc/@.homeland) 　　 
-[prns.page](https://en.pronouns.page/@charlieSOAPMACTA) 　　
-[url hoard](https://rentry.co/charliesurlhoard/) 　　 </sub>
+<div align="center">
+<sub> <a href="https://pronouns.cc/@.homeland/">prns.cc</a> </sub> 　　 
+<sub> <a href="https://en.pronouns.page/@charlieSOAPMACTA">prns.page</a> </sub> 　　 
+<sub> <a href="https://rentry.co/charliesurlhoard/">url hoard</a>  </sub>
 </p>
 
 
 <p>
 <p align="center">
-<sub> [kuro](https://kuro.rip/homelander) 　　 
-[zyo](https://zyo.lol/samwinchester) 　　 
-[zyo2](https://zyo.lol/homelander) 　　 </sub>
+<div align="center">
+<sub> <a href="https://kuro.rip/homelander">kuro</a> </sub> 　　 
+<sub> <a href="https://zyo.lol/samwinchester">zyo</a> </sub>　　 
+<sub> <a href="https://zyo.lol/homelander)">zyo2</a> </sub>
 </p>
 
 <p>
 <p align="center">
-<sub>[kuro2](https://kuro.rip/samwinchester) 　　 </sub>
+<div align="center">
+<sub> <a href="https://kuro.rip/samwinchester)">kuro2</a> </sub>
 </p>
 
 <br>
