@@ -40,13 +40,13 @@
 <div align="center">
 <sub> <a href="https://kuro.rip/homelander">kuro</a> </sub> 　　 
 <sub> <a href="https://zyo.lol/samwinchester">zyo</a> </sub>　　 
-<sub> <a href="https://zyo.lol/homelander)">zyo2</a> </sub>
+<sub> <a href="https://zyo.lol/homelander">zyo2</a> </sub>
 </p>
 
 <p>
 <p align="center">
 <div align="center">
-<sub> <a href="https://kuro.rip/samwinchester)">kuro2</a> </sub>
+<sub> <a href="https://kuro.rip/samwinchester">kuro2</a> </sub>
 </p>
 
 <br>
