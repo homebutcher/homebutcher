@@ -22,7 +22,7 @@
 <div align="center">
 <sub> <a href="https://rentry.co/sexualdisorder">rentry</a> </sub> 　　 
 <sub> <a href="https://canniballove.atabook.org/">atabook</a> </sub> 　　 
-<sub> <a href="https://hypnodeath.straw.page/)">strawpage</a> </sub>
+<sub> <a href="https://hypnodeath.straw.page/">strawpage</a> </sub>
 </p>
 
 
