@@ -1,6 +1,12 @@
 <p>
 <div align="center">
 <p align="center">
+<sub> <a href="https://x.com/homeIndr/status/2088094623810097235">post of all time</a> </sub> 
+</p>
+
+<p>
+<div align="center">
+<p align="center">
 <sub><ins>do not bring me into drama</ins></sub>
 </p>
 
