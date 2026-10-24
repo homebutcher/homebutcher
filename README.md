@@ -60,12 +60,15 @@
 <p align="center">
 <table><caption>
 <tr><td>
- <sub>${\textsf{\color{#787b60}lolicons,　shotacons,　kodacon,　heavy burdon　antis,　ppl　who　ship　kids　&&　adults　(its　triggering　4　me),　ppl　who　trigger　others　on　purpose,　super　profic　or　proship,$</sub>   
+<sub>${\textsf{\color{#787b60}lolicons,　shotacons,　kodacon,}}$ <br> </sub>
+<sub>${\textsf{\color{#787b60}heavy burdon　antis,}}$ <br> </sub>
+<sub>${\textsf{\color{#787b60}ppl　who　ship　kids　and　adults　}}$ <br> </sub>
+<sub>${\textsf{\color{#787b60}ppl　who　trigger　others　on　purpose,}}$ <br> </sub>
+<sub>${\textsf{\color{#787b60}super　profic　or　proship,}}$</sub>   
 </tr></td></caption></table>
 </details>
 <br>
 </p>
-
 
 <details>
 <summary><sub>　explation/byi　</sub></summary>
@@ -73,7 +76,14 @@
 <p align="center">
 <table><caption>
 <tr><td>
- <sub>${\textsf{\color{#787b60}i　am　kinda　not　an　anti　nor　proship　by　definition,　i　am　anti-harassment,　in　some level　anti-censorship,　i　agree　and　disagree　with　certain　beliefs　on　both　side,　do　not　take　this　as　me　saying　i'm　proship,　i　wish　proshippers/darkshippers　to　iwc　at　all　cost　with　me,　do　not　bring　incest　child/adult　or　child/adult　ships near me,　as　it　is　　triggering　for　me}}$</sub>   
+ <sub>${\textsf{\color{#787b60}i　am　not　an　anti　or　proship　by　definition,}}$ <br></sub> 
+  <sub>${\textsf{\color{#787b60}i　am　anti-harassment,　in　some level　anti-censorship,}}$ <br></sub> 
+  <sub>${\textsf{\color{#787b60}i　agree　and　disagree　with　certain　beliefs　on　both　side}}$ <br></sub> 
+  <sub>${\textsf{\color{#787b60}do　not　take　this　as　me　saying　i'm　proship,}}$ <br></sub> 
+  <sub>${\textsf{\color{#787b60}i　wish　proshippers/darkshippers　}}$　<br></sub>
+  <sub>${\textsf{\color{#787b60}to　iwc　at　all　cost　with　me,　do　not　bring　incest}}$　<br></sub> 
+  <sub>${\textsf{\color{#787b60}child/adult　or　child/adult　ships near me,　as　it}}$ <br> </sub> 
+  <sub>${\textsf{\color{#787b60}is　　triggering　for　me}}$</sub>   
 </tr></td></caption></table>
 </details>
 <br>
