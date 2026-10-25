@@ -92,7 +92,7 @@
   <sub>${\textsf{\color{#787b60}is　triggering　for　me}}$</sub>   <br>
  <br>
  <sub>${\textsf{\color{#787b60}if　you　ever　hear　me　say　i'm　profic/anti}}$</sub>
- <sub>${\textsf{\color{#787b60}im　in　a　state　of}}$ <a href="https://pluralpedia.org/w/Introject">introjection</a> </sub> <br>
+ <sub>${\textsf{\color{#787b60}im　in　a　state　of}}$</sub>　<sub><a href="https://pluralpedia.org/w/Introject">introjection</a> </sub> <br>
  <sub>${\textsf{\color{#787b60}i　experience　that　often,　i'm　plural,}}$</sub>
  <sub>${\textsf{\color{#787b60}it's　one　of　the　main　reasons　i　experience　it}}$</sub>
 </tr></td></caption></table>
