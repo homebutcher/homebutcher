@@ -61,6 +61,20 @@
 <br>
 
 <details>
+<summary><sub>　when u cool asf　</sub></summary>
+<p>
+<p align="center">
+<table><caption>
+<tr><td>
+<sub><a href="https://github.com/newestalbum">@newestalbum</a> <a href="https://github.com/siller64">@siller64</a></sub>
+<sub><a href="https://github.com/O-Dembele10">@O-Dembele10</a> <a href="https://github.com/tellthatmick">@tellthatmick</a></sub>
+<sub><a href="https://github.com/flawed-by-design">@flawed-by-design</a> <a href="https://github.com/inceIbur">@incelbur</a></sub>
+</tr></td></caption></table>
+</details>
+<br>
+</p>
+
+<details>
 <summary><sub>　dni　</sub></summary>
 <p>
 <p align="center">
