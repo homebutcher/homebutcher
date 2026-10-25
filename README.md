@@ -89,7 +89,12 @@
   <sub>${\textsf{\color{#787b60}i　wish　proshippers/darkshippers　}}$　<br></sub>
   <sub>${\textsf{\color{#787b60}to　iwc　at　all　cost　with　me,　do　not　bring　incest}}$　<br></sub> 
   <sub>${\textsf{\color{#787b60}child/adult　or　child/adult　ships near me,　as　it}}$ <br> </sub> 
-  <sub>${\textsf{\color{#787b60}is　　triggering　for　me}}$</sub>   
+  <sub>${\textsf{\color{#787b60}is　triggering　for　me}}$</sub>   <br>
+ <br>
+ <sub>${\textsf{\color{#787b60}if　you　ever　hear　me　say　i'm　profic/anti}}$</sub>
+ <sub>${\textsf{\color{#787b60}im　in　a　state　of　introjection}}$</sub>
+ <sub>${\textsf{\color{#787b60}i　experience　that　often,　i'm　plural,}}$</sub>
+ <sub>${\textsf{\color{#787b60}it's　one　of　the　main　reasons　i　experience　it}}$</sub>
 </tr></td></caption></table>
 </details>
 <br>
