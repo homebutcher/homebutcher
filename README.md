@@ -77,7 +77,7 @@
 <sub><a href="https://github.com/O-Dembele10">@O-Dembele10</a> <a href="https://github.com/tellthatmick">@tellthatmick</a></sub> <br>
 <sub><a href="https://github.com/flawed-by-design">@flawed-by-design</a> <a href="https://github.com/inceIbur">@incelbur</a></sub> <br>
  <sub><a href="https://github.com/zemifhhh">@zemifhhh</a> <a href="https://github.com/bIackbirds">bIackbirds</a></sub>
- <sub><a href=""https://github.com/denguemon">@dengaymon</a>
+ <sub><a href="https://github.com/denguemon">@dengaymon</a>
 </tr></td></caption></table>
 </details>
 <br>
