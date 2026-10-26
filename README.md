@@ -1,15 +1,4 @@
-<p>
-<div align="center">
-<p align="center">
-<sub> note　to　friends: <br>
-please　stop　BULLYING　ME!!!!</sub> 
-</p>
 
-<p>
-<div align="center">
-<p align="center">
-<sub> <a href="https://x.com/homeIndr/status/2088094623810097235">post of all time</a> </sub> 
-</p>
 
 <p>
 <div align="center">
@@ -77,6 +66,7 @@ please　stop　BULLYING　ME!!!!</sub>
 <sub><a href="https://github.com/O-Dembele10">@O-Dembele10</a> <a href="https://github.com/tellthatmick">@tellthatmick</a></sub> <br>
 <sub><a href="https://github.com/flawed-by-design">@flawed-by-design</a> <a href="https://github.com/inceIbur">@incelbur</a></sub> <br>
  <sub><a href="https://github.com/zemifhhh">@zemifhhh</a> <a href="https://github.com/bIackbirds">bIackbirds</a></sub>
+ <sub><a href=""https://github.com/denguemon">@dengaymon</a>
 </tr></td></caption></table>
 </details>
 <br>
