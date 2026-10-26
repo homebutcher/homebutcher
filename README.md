@@ -76,7 +76,7 @@ please　stop　BULLYING　ME!!!!</sub>
 <sub><a href="https://github.com/newestalbum">@newestalbum</a> <a href="https://github.com/siller64">@siller64</a></sub> <br>
 <sub><a href="https://github.com/O-Dembele10">@O-Dembele10</a> <a href="https://github.com/tellthatmick">@tellthatmick</a></sub> <br>
 <sub><a href="https://github.com/flawed-by-design">@flawed-by-design</a> <a href="https://github.com/inceIbur">@incelbur</a></sub> <br>
- <sub><a href="https://github.com/zemifhhh">@zemifhhh</a> </sub>
+ <sub><a href="https://github.com/zemifhhh">@zemifhhh</a> <a href="https://github.com/bIackbirds">bIackbirds</a></sub>
 </tr></td></caption></table>
 </details>
 <br>
