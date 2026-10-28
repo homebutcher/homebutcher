@@ -5,10 +5,23 @@
 <p align="center">
 <sub> <a href="https://github.com/newestalbum">@newestalbum</a> btw ↓↓↓ </sub>
 </p>
-<p>
+
+ <p>
 <div align="center">
 <p align="center">
 <img width="250" src="https://github.com/user-attachments/assets/d4ff61a0-45d7-46e5-ae15-a0bb153f8bc3" />
+</p>
+
+<p>
+<div align="center">
+<p align="center">
+<sub> <a href="https://github.com/Deerbites">@deerbites</a> btw ↓↓↓ </sub>
+</p>
+
+ <p>
+<div align="center">
+<p align="center">
+ <img width="250" src="https://github.com/user-attachments/assets/ec1fcef0-a987-4aa1-b005-6c86261fa3b6" />
 </p>
 
 <p>
