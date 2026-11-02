@@ -27,6 +27,18 @@
 <p>
 <div align="center">
 <p align="center">
+<sub> <a href="https://github.com/denguemon">@denguemon</a> btw ↓↓↓ </sub>
+</p>
+
+<p>
+ <div align="center">
+  <p align="center">
+   <img width="250" src="https://github.com/user-attachments/assets/c5e8192f-b755-44a1-9f7e-7bcbaca537f3" />
+</p>
+
+<p>
+<div align="center">
+<p align="center">
 <sub><ins>do not bring me into drama</ins></sub>
 </p>
 
