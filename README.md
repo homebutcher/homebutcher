@@ -17,7 +17,7 @@
     <a href="https://rentry.co/sexualdisorder"><img width="70" src="https://github.com/user-attachments/assets/8c4f9bb4-c1d1-4768-9f82-8ae60385219c"/></a><br>
   shiny button (wip)<br>
   more(wip)<br>
-  <img width="35" src="https://github.com/user-attachments/assets/e224640f-23d1-497c-aecb-dcdb203dacd7"/>  lovemail(wip)
+  <img width="35" src="https://github.com/user-attachments/assets/cc27433f-2b35-46b9-a327-04f96363b365"/>  lovemail(wip)
   <br><br>
 </td>
 </tr>
