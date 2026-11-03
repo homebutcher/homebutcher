@@ -1,6 +1,6 @@
 <p>
 <div align="center">
-<sub>charlie anubis guillotine or as the locals call me you dont even finsih your skins <br>
+<sub>charlie anubis guillotine or as the locals call me fattie <br>
 wip because readme was hidous</sub>
 </div>
 <p>
