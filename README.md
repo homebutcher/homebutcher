@@ -9,8 +9,8 @@
 <tr><td align="center"> <img width="250" src="https://github.com/user-attachments/assets/b6a77d6e-70f3-4081-82b2-3c6962b2ecbf"/> </td></tr>
   
 <tr><td align="center">
-ata<br>
-  renty <br>
+<a href="https://canniballove.atabook.org/"><img width="55"src="https://github.com/user-attachments/assets/5f69c179-56f8-46b6-af3d-7621d9b8804e"/> <br>
+<a href="https://rentry.co/sexualdisorder"><img width="90" src="https://github.com/user-attachments/assets/8c4f9bb4-c1d1-4768-9f82-8ae60385219c"/> <br>
   shiny button <br>
   more<br>
   lovemail<br>  
