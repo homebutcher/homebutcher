@@ -1,6 +1,6 @@
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=a6a376&label=+devils++victim+)
+![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9fa075&label=+devils++victim+)
 
 <table align="center"><caption>
 <tr>
@@ -14,12 +14,14 @@
   <br>
 <img width="30" src="https://github.com/user-attachments/assets/e4d66d2b-695b-4a81-9b74-2d843a5111f8"/>ㅤㅤㅤ   ㅤ
 <a href="https://canniballove.atabook.org/"><img width="45"src="https://github.com/user-attachments/assets/5f69c179-56f8-46b6-af3d-7621d9b8804e"/></a>   。。<br>
-    <a href="https://rentry.co/sexualdisorder"><img width="65" src="https://github.com/user-attachments/assets/8c4f9bb4-c1d1-4768-9f82-8ae60385219c"/></a>   <img width="24" src="https://github.com/user-attachments/assets/0126828b-a32d-49a9-b21b-c7a34fb64527"/>    <br>
-  shiny button <br>
-  more<br>
-  lovemail<br>  
+    <a href="https://rentry.co/sexualdisorder"><img width="70" src="https://github.com/user-attachments/assets/8c4f9bb4-c1d1-4768-9f82-8ae60385219c"/></a><br>
+  shiny button (wip)<br>
+  more(wip)<br>
+  <img width="35" src="https://github.com/user-attachments/assets/e224640f-23d1-497c-aecb-dcdb203dacd7"/>  lovemail(wip)
+  <br><br>
 </td>
 </tr>
+
 
 <tr>
 <td align="center">
