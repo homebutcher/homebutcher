@@ -2,7 +2,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9fa075&label=+devils++victim+)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=30&duration=1400&pause=600&color=F7F7F7&vCenter=true&width=250&lines=NERD+GIRL%2C;I+DONT+DESERVE+YOU%2C;I+DONT+GET+THE+REFS;YOU+REFER+TO" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=30&duration=1400&pause=600&color=F7F7F7&center=true&width=250&lines=NERD+GIRL%2C;I+DONT+DESERVE+YOU%2C;I+DONT+GET+THE+REFS;YOU+REFER+TO)](https://git.io/typing-svg)
 
 <table align="center"><caption>
 <tr>
