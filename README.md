@@ -7,7 +7,7 @@
 <table align="center"><caption>
 <tr>
 
-<tr><td align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=30&letterSpacing=NORMAL&duration=1400&pause=600&color=83826B&center=true&width=250&height=50&lines=SAMMY+HATES+YOU!;%28HATES+YOU!!!%29;SAMMY+LIKES+ME!;%28LIKES+ME!!!%29;SAMMY+HATES+YOU!;I+HATE+YOU+TOO!;HE'LL+SLAP+UR+FACE!;%28YOUR+FACE!!!%29;PUT+U+IN+YOUR+PLACE!;%28YOUR+PLACE!!!%29;BITCHES+GET+STICHES!;BITCHES%2C+BITCHES%2C;BITCHES!;SAMMY+IS+MY+KITTY!!!;MY+KITTY%2C+MY+KITTY!!!;SAMMY+IS+MY+KITTY%2C;%26%26+I+THINK+HE'S+PRETTY!"/></a> </td></tr>
+<tr><td align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=30&letterSpacing=NORMAL&duration=1400&pause=600&color=83826B&center=true&width=250&height=30&lines=SAMMY+HATES+YOU!;%28HATES+YOU!!!%29;SAMMY+LIKES+ME!;%28LIKES+ME!!!%29;SAMMY+HATES+YOU!;I+HATE+YOU+TOO!;HE'LL+SLAP+UR+FACE!;%28YOUR+FACE!!!%29;PUT+U+IN+YOUR+PLACE!;%28YOUR+PLACE!!!%29;BITCHES+GET+STICHES!;BITCHES%2C+BITCHES%2C;BITCHES!;SAMMY+IS+MY+KITTY!!!;MY+KITTY%2C+MY+KITTY!!!;SAMMY+IS+MY+KITTY%2C;%26%26+I+THINK+HE'S+PRETTY!"/></a> </td></tr>
 
 <td align="center">
 <img width="250" src="https://github.com/user-attachments/assets/80586571-9af1-49b9-92ff-a0a87718a72d" />
