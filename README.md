@@ -1,6 +1,4 @@
-<div align="center">
-<sub> let me suck on yo nippless yeahhh yeahh <br>
-im so friking sorry. i love that friking song. </sub>
+
 
 <div align="center">
 
