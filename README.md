@@ -1,6 +1,10 @@
 redesing soon
 
 <div align="center">
+<img width="250" src="https://github.com/user-attachments/assets/ae1d6a5e-431c-4c08-adc4-a26ee89082fe" />
+<br>
+
+<div align="center">
 
 ![views](https://komarev.com/ghpvc/?username=HOMELANDER&color=9fa075&label=+devils++victim+)
 <br>
