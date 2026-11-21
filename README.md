@@ -27,14 +27,15 @@ redesing soon
   <br><br>
 </td>
 </tr>
-
-
-<tr>
-<td align="center">
-<img width="250" src="https://github.com/user-attachments/assets/80586571-9af1-49b9-92ff-a0a87718a72d"/>
-</td></tr>
-
 </table>
+
+
+
+<div align="center">
+<img width="250" src="https://github.com/user-attachments/assets/80586571-9af1-49b9-92ff-a0a87718a72d"/>
+</div>
+
+
 
 
 
