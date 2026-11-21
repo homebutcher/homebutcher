@@ -1,4 +1,4 @@
-
+redesing soon
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 <a href="https://canniballove.atabook.org/"><img width="45"src="https://github.com/user-attachments/assets/5f69c179-56f8-46b6-af3d-7621d9b8804e"/></a>   。。<br>
     <a href="https://rentry.co/sexualdisorder"><img width="70" src="https://github.com/user-attachments/assets/8c4f9bb4-c1d1-4768-9f82-8ae60385219c"/></a><br>
   shiny button (wip)<br>
-  more(wip)<br>
+  <a href="https://pronouns.cc/@anguish">prn.cc</a> <br>
   <img width="35" src="https://github.com/user-attachments/assets/cc27433f-2b35-46b9-a327-04f96363b365"/>  lovemail(wip)
   <br><br>
 </td>
