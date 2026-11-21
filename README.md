@@ -6,17 +6,16 @@ redesing soon
 <br>
 
 
+
+<div align="center">
+<img width="250" src="https://github.com/user-attachments/assets/80586571-9af1-49b9-92ff-a0a87718a72d" />
+</div>
+
+<div align="center">
+<img width="250" src="https://github.com/user-attachments/assets/b6a77d6e-70f3-4081-82b2-3c6962b2ecbf"/> </div>
+
 <table align="center"><caption>
 <tr>
-
-<tr><td align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&weight=900&size=30&duration=1400&pause=600&color=83826B&center=true&vCenter=true&width=250&height=48&lines=SAMMY+HATES+YOU!;%28HATES+YOU!!!%29;SAMMY+LIKES+ME!;%28LIKES+ME!!!%29;SAMMY+HATES+YOU!;I+HATE+YOU+TOO!;HE'LL+SLAP+UR+FACE!;%28YOUR+FACE!!!%29;PUT+U+IN+YOUR+PLACE!;%28YOUR+PLACE!!!%29;BITCHES+GET+STICHES!;BITCHES%2C+BITCHES%2C;BITCHES!;SAMMY+IS+MY+KITTY!!!;MY+KITTY%2C+MY+KITTY!!!;SAMMY+IS+MY+KITTY%2C;%26%26+I+THINK+HE'S+PRETTY!"/></a> </td></tr>
-
-<td align="center">
-<img width="250" src="https://github.com/user-attachments/assets/80586571-9af1-49b9-92ff-a0a87718a72d" />
-</td></tr>
-
-<tr><td align="center"> <img width="250" src="https://github.com/user-attachments/assets/b6a77d6e-70f3-4081-82b2-3c6962b2ecbf"/> </td></tr>
-  
 <tr><td align="center">
   <br>
 <img width="30" src="https://github.com/user-attachments/assets/e4d66d2b-695b-4a81-9b74-2d843a5111f8"/>ㅤㅤㅤ   ㅤ
