@@ -1,4 +1,8 @@
-redesing soon
+<img width="30" src="https://github.com/user-attachments/assets/a52ab04b-f6af-4c7a-b559-210460e7a3e6" />
+redesing soon <img width="30" src="https://github.com/user-attachments/assets/36702bfc-c59d-4653-9081-d262dfce0a21" /> <img width="30" src="https://github.com/user-attachments/assets/452d36fd-9011-4ce4-b009-a8c875984837" />
+<img width="30" src="https://github.com/user-attachments/assets/97c20eeb-2f0a-41e6-a2e6-325596ae299a" />
+
+
 
 <div align="center">
 <img width="250" src="https://github.com/user-attachments/assets/ae1d6a5e-431c-4c08-adc4-a26ee89082fe" />
